@@ -66,7 +66,7 @@ The dataset is a CSV file with two columns: `Questions` and `Answers`. It includ
 
 ## Notebook Structure
 
-The Jupyter Notebook (`Student_Affairs_Analysis.ipynb`) is organized as follows:
+The Jupyter Notebook (`EmbeddingClusteringVectorizationWorkshop.ipynb`) is organized as follows:
 
 1. **Importing Libraries**:
    - Loads `pandas`, `matplotlib`, `seaborn`, `gensim`, and `nltk` for data processing and visualization.
