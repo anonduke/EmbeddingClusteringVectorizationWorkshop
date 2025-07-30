@@ -33,13 +33,12 @@ The dataset is a CSV file with two columns: `Questions` and `Answers`. It includ
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/anonduke/EmbeddingClusteringVectorizationWorkshop.git
-   cd student-affairs-analysis-uet
    ```
 
 2. **Set Up a Virtual Environment** (optional but recommended):
    ```bash
    python -m venv .venv
-   source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+   On Windows: .venv\Scripts\activate
    ```
 
 3. **Install Dependencies**:
