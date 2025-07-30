@@ -1,0 +1,4 @@
+.venv
+nltk_data
+glove.6B
+saveModelSkipGram.bin
